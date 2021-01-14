@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="isomessageweb:war exploded">
+    <output-path>$PROJECT_DIR$/../isomessageweb/out/artifacts/isomessageweb_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="isomessageweb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="isomessageweb" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
